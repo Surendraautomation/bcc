@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-04T16:50:45 IST" name="Surefire suite" finished-at="2023-06-04T16:51:05 IST" duration-ms="19810">
+    <groups>
+    </groups>
+    <test started-at="2023-06-04T16:50:45 IST" name="Surefire test" finished-at="2023-06-04T16:51:05 IST" duration-ms="19810">
+      <class name="redchillie.bcc.CTest">
+        <test-method signature="c()[pri:0, instance:redchillie.bcc.CTest@365c30cc]" started-at="2023-06-04T16:50:45 IST" name="c" finished-at="2023-06-04T16:51:05 IST" duration-ms="19793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+      </class> <!-- redchillie.bcc.CTest -->
+      <class name="redchillie.bcc.BTest">
+        <test-method signature="b()[pri:0, instance:redchillie.bcc.BTest@17776a8]" started-at="2023-06-04T16:50:45 IST" name="b" finished-at="2023-06-04T16:50:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+      </class> <!-- redchillie.bcc.BTest -->
+      <class name="redchillie.bcc.ATest">
+        <test-method signature="a()[pri:0, instance:redchillie.bcc.ATest@701fc37a]" started-at="2023-06-04T16:51:05 IST" name="a" finished-at="2023-06-04T16:51:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a -->
+      </class> <!-- redchillie.bcc.ATest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
