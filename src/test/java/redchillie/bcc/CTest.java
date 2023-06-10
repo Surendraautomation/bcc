@@ -15,6 +15,7 @@ public class CTest {
 		driver.get("https://www.google.com");
 		driver.manage().window().maximize();
 		System.out.println("Done");
+		System.out.println("Second Change");
 		driver.close();
 	}
 
