@@ -2,6 +2,7 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite started-at="2023-06-11T09:51:26 IST" name="Default suite" finished-at="2023-06-11T09:51:49 IST" duration-ms="23719">
     <groups>
     </groups>
@@ -12,6 +13,18 @@
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- redchillie.bcc.BrowseropeningTest -->
+=======
+  <suite started-at="2023-06-10T11:12:50 IST" name="Default suite" finished-at="2023-06-10T11:13:09 IST" duration-ms="19662">
+    <groups>
+    </groups>
+    <test started-at="2023-06-10T11:12:50 IST" name="Default test" finished-at="2023-06-10T11:13:09 IST" duration-ms="19662">
+      <class name="redchillie.bcc.CTest">
+        <test-method signature="c()[pri:0, instance:redchillie.bcc.CTest@358ee631]" started-at="2023-06-10T11:12:50 IST" name="c" finished-at="2023-06-10T11:13:09 IST" duration-ms="19649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c -->
+      </class> <!-- redchillie.bcc.CTest -->
+>>>>>>> 2bdc8c1bc9cb2c13ab2363388e60ce7413a39c9b
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
