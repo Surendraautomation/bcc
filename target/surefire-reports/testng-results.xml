@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-04T16:50:45 IST" name="Surefire suite" finished-at="2023-06-04T16:51:05 IST" duration-ms="19810">
+  <suite started-at="2023-06-11T09:52:38 IST" name="Suite" finished-at="2023-06-11T09:52:59 IST" duration-ms="20410">
     <groups>
     </groups>
-    <test started-at="2023-06-04T16:50:45 IST" name="Surefire test" finished-at="2023-06-04T16:51:05 IST" duration-ms="19810">
+    <test started-at="2023-06-11T09:52:38 IST" name="Test" finished-at="2023-06-11T09:52:59 IST" duration-ms="20410">
       <class name="redchillie.bcc.CTest">
-        <test-method signature="c()[pri:0, instance:redchillie.bcc.CTest@365c30cc]" started-at="2023-06-04T16:50:45 IST" name="c" finished-at="2023-06-04T16:51:05 IST" duration-ms="19793" status="PASS">
+        <test-method signature="c()[pri:0, instance:redchillie.bcc.CTest@2fd6b6c7]" started-at="2023-06-11T09:52:38 IST" name="c" finished-at="2023-06-11T09:52:59 IST" duration-ms="20395" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- c -->
       </class> <!-- redchillie.bcc.CTest -->
       <class name="redchillie.bcc.BTest">
-        <test-method signature="b()[pri:0, instance:redchillie.bcc.BTest@17776a8]" started-at="2023-06-04T16:50:45 IST" name="b" finished-at="2023-06-04T16:50:45 IST" duration-ms="2" status="PASS">
+        <test-method signature="b()[pri:0, instance:redchillie.bcc.BTest@3c72f59f]" started-at="2023-06-11T09:52:59 IST" name="b" finished-at="2023-06-11T09:52:59 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- b -->
       </class> <!-- redchillie.bcc.BTest -->
       <class name="redchillie.bcc.ATest">
-        <test-method signature="a()[pri:0, instance:redchillie.bcc.ATest@701fc37a]" started-at="2023-06-04T16:51:05 IST" name="a" finished-at="2023-06-04T16:51:05 IST" duration-ms="0" status="PASS">
+        <test-method signature="a()[pri:0, instance:redchillie.bcc.ATest@60dcc9fe]" started-at="2023-06-11T09:52:59 IST" name="a" finished-at="2023-06-11T09:52:59 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- a -->
       </class> <!-- redchillie.bcc.ATest -->
-    </test> <!-- Surefire test -->
-  </suite> <!-- Surefire suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
