@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-10T10:13:41 IST" name="Default suite" finished-at="2023-06-10T10:13:41 IST" duration-ms="35">
+  <suite started-at="2023-06-10T22:11:18 IST" name="Default suite" finished-at="2023-06-10T22:11:26 IST" duration-ms="7365">
     <groups>
     </groups>
-    <test started-at="2023-06-10T10:13:41 IST" name="Default test" finished-at="2023-06-10T10:13:41 IST" duration-ms="35">
-      <class name="redchillie.bcc.BTest">
-        <test-method signature="b()[pri:0, instance:redchillie.bcc.BTest@35beb15e]" started-at="2023-06-10T10:13:41 IST" name="b" finished-at="2023-06-10T10:13:41 IST" duration-ms="9" status="PASS">
+    <test started-at="2023-06-10T22:11:18 IST" name="Default test" finished-at="2023-06-10T22:11:26 IST" duration-ms="7365">
+      <class name="redchillie.bcc.BrowseropeningTest">
+        <test-method signature="test()[pri:0, instance:redchillie.bcc.BrowseropeningTest@3d121db3]" started-at="2023-06-10T22:11:18 IST" name="test" finished-at="2023-06-10T22:11:26 IST" duration-ms="7353" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- b -->
-      </class> <!-- redchillie.bcc.BTest -->
+        </test-method> <!-- test -->
+      </class> <!-- redchillie.bcc.BrowseropeningTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
